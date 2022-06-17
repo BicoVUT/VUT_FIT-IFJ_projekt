@@ -1,4 +1,4 @@
-# Projekt pre [IFJ](https://www.fit.vut.cz/study/course/13981/.cs)
+# Projekt pre [IFJ](https://www.fit.vut.cz/study/course/13981/.cs) (Formální jazyky a překladače)
 
 Implementacia prekladača imperativneho jazyka IFJ20.
 
